@@ -14,4 +14,4 @@ Data Splitting: The data was divided into training (70%) and testing (30%) sets.
 PCA (Principal Component Analysis): Dimensionality reduction was applied to simplify the feature set.
 Modeling: A RandomForestRegressor was used to predict the fare amount.
 Model Evaluation:
-The model performed well, achieving an R² score of 94% on the training set and 93% on the test set.
+The model performed well, achieving an R-squared score of 94% on the training set and 93% on the test set.
